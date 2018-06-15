@@ -1,0 +1,4 @@
+target 'SACashaloRN' do
+  pod 'Fabric'
+  pod 'Crashlytics'
+end
